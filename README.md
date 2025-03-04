@@ -25,55 +25,6 @@
           </tr>
     </tbody>
 </table>
- <!--Statistics-->
-
-<div align="center">
-    <div>
-        <a href="https://github.com/cengizilkerli/github-profile-views-counter">
-            <img align="center" src="https://komarev.com/ghpvc/?username=cengizilkerli&color=blue">
-        </a>
-        <a href="https://github.com/cengizilkerli?tab=followers">
-            <img align="center"  src="https://img.shields.io/github/followers/cengizilkerli?style=flat-square&color=red">
-        </a>      
-    </div>
-    <div>
-        <h5><a>Follow me around the web:</a></h5>
-    </div>
-    <div>
-        <a href="https://www.linkedin.com/in/cengiz-ilkerli-1a509a215/" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-    </div>
-</div>
-</br>
-<hr />
-<div align="center">
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=cengizilkerli&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
-  </div>
-  <br>
-    <div>
-        <a href="https://github.com/cengizilkerli">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cengizilkerli&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
-        </a>
-        <br>
-        <br>
-        <a href="https://git.io/streak-stats">
-            <img align="center" src="https://streak-stats.demolab.com?user=cengizilkerli&theme=highcontrast&mode=weekly&exclude_days=Mon" />
-        </a>
-    </div>
-    <br>
-    <div>
-        <a href="https://github.com/cengizilkerli">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cengizilkerli&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=20" />
-        </a>
-    </div>
-</div>
-
-
-<hr />
-
-
 
 <div>
     <div>
