@@ -23,6 +23,15 @@ I design and develop enterprise-grade backend and frontend systems with a strong
 
 My recent work includes CRM modernization, legacy-to-modern system synchronization, outbox pattern, background workers, SAP integrations, distributed messaging, search infrastructure and technical leadership across CRM engineering teams.
 
+![.NET](https://img.shields.io/badge/.NET-9%2F10-512BD4?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-Backend-239120?style=flat&logo=csharp)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript)
+![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-231F20?style=flat&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat&logo=docker)
+
 ### Selected Technical Areas
 
 - Enterprise CRM and financial automation systems
@@ -35,3 +44,4 @@ My recent work includes CRM modernization, legacy-to-modern system synchronizati
 ### Connect
 
 - LinkedIn: https://www.linkedin.com/in/cengiz-ilkerli-1a509a215/
+
